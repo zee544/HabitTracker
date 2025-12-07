@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">DailYPULSE...</string>
+    <string name="widget_description">Habit Tracker Progress Widget</string>
+    <string name="greet">Good Morning ☀️</string>
+    <string name="habit">Daily Habits</string>
+    <string name="habit1">Todays Progress</string>
+    <string name="habit2">Your Habits</string>
+    <string name="hydra">💧 Hydration Reminder</string>
+    <string name="hydra1">Enable Reminders</string>
+    <string name="hydra2">Remind every 60 minutes</string>
+    <string name="hydra3">5min                     10min                    15min               20min</string>
+    <string name="hydra4">📈  Water Tracker</string>
+    <string name="hydra5">Today: 0 glasses</string>
+    <string name="hydra6">Goal: 0/8 glasses (0%)</string>
+    <string name="hydra7">👤  Profile Details</string>
+    <string name="hydra8">Mood Tracker</string>
+    <string name="hydra9">Recent Mood Entries</string>
+    <string name="habit3">Habit Name</string>
+    <string name="habit4">0 day streak</string>
+    <string name="habit5">Todays progress: 0%</string>
+
+</resources>
+
+
+
+
+
+

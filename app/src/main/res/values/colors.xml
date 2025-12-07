@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="secondary">#162936</color>
+    <color name="accent">#27e9b5</color>
+    <color name="primary">#AEA9A9A9</color>
+    <color name="sec">#10ABB6B3</color>
+    <color name="red">#D93333</color>
+    <color name="green">#34C521</color>
+
+    <!--  gradient_bg -->
+    <color name="gradient_bg">#4A90E2</color>
+    <color name="gradient_bg1">#A89CE6</color>
+
+    <!--  gradient_bg3 -->
+    <color name="gradient_bg3">#CBE6EB</color>
+    <color name="gradient_bg4">#DFDCEF</color>
+    <color name="gradient_bg5">#D1E6DD</color>
+
+
+</resources>
+
+
+
+
+
